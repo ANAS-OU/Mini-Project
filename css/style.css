@@ -165,7 +165,11 @@
     color: var(--white-color);
   }
 
+video {
 
+  width: 100%    !important;
+  height: auto   !important;
+}
 
   /*---------------------------------------
      GENERAL               
